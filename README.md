@@ -31,4 +31,4 @@ pip install -r requirements.txt
 ```
 
 ## Citation
-url = {[https://link.springer.com/article/10.1007/s11082-023-05351-1](https://link.springer.com/article/10.1007/s11082-023-05351-1)
+url = {[https://link.springer.com/article/10.1007/s11082-023-05351-1](https://link.springer.com/article/10.1007/s11082-023-05351-1)}
